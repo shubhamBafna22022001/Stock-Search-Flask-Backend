@@ -1,7 +1,7 @@
 # Stock-Search-Flask-Backend
 This project aims to create a web application that enables users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. The application will be built using Python programming language and the Flask framework for server-side scripting.
 
-The application is built using Python programming language and the Flask framework for server-side scripting, deployed on Google Cloud Platform (GCP) at this [Visit the deployed project](https://shubh22022001.wm.r.appspot.com/)
+The application is built using Python programming language and the Flask framework for server-side scripting, deployed on Google Cloud Platform (GCP). [Visit the deployed project](https://bafna-stocksearch.wl.r.appspot.com/) here.
 
 It leverages the Finnhub Stock API for retrieving real-time stock data, including stock quotes, historical prices, and news articles. Additionally, the Polygon.io API is utilized to fetch historical stock data for chart visualization. The front-end of the application is designed using HTML, CSS, and JavaScript, with DOM manipulation for dynamic content rendering. The XMLHttpRequest object facilitates asynchronous data retrieval from the server. HighCharts library is employed to create interactive and visually appealing charts for displaying stock data.
 
